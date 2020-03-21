@@ -1,4 +1,4 @@
-# FlutterMobileApps
+# Flutter Mobile Applications
 
 ## Frontend Applications
 ### • [Simple Xylophone Application](https://github.com/Mo-Foula/Xylophone-Flutter).
