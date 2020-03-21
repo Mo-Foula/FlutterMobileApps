@@ -1,9 +1,11 @@
 # Flutter Mobile Applications
 
 ## Frontend Applications
-### • [Simple Xylophone Application](https://github.com/Mo-Foula/Xylophone-Flutter).
+### • [Xylophone Application,a music app](https://github.com/Mo-Foula/Xylophone-Flutter).
+### • [Quizzler](https://github.com/Mo-Foula/Quizzler-Flutter).
 
 ### • [BMI Calculator Application](https://github.com/Mo-Foula/BMI-Calculator-Flutter).
 
+
 ## Backend Applications
-### • [The Weather Application , Clima](https://github.com/Mo-Foula/Clima-Flutter).
+### • [Clima,a weather application](https://github.com/Mo-Foula/Clima-Flutter).
