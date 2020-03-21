@@ -2,7 +2,7 @@
 
 ## Frontend Applications
 ### • [Xylophone Application,a music app](https://github.com/Mo-Foula/Xylophone-Flutter).
-### • [Quizzler](https://github.com/Mo-Foula/Quizzler-Flutter).
+### • [Quizzler,quiz app](https://github.com/Mo-Foula/Quizzler-Flutter).
 
 ### • [BMI Calculator Application](https://github.com/Mo-Foula/BMI-Calculator-Flutter).
 
