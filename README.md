@@ -10,3 +10,4 @@
 ## Backend Applications
 ### • [Clima, weather application](https://github.com/Mo-Foula/Clima-Flutter).
 ### • [BitCoin Ticker, BitcCoin value in many currencies](https://github.com/Mo-Foula/BitCoin-Ticker-Flutter).
+### • [Flash Chat](https://github.com/Mo-Foula/Flash-Chat-Flutter).
